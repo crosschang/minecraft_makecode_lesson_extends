@@ -1,3 +1,3 @@
-player.onChat("run", function () {
-	
+player.onChat("시작", function () {
+    Lesson.hello()
 })
