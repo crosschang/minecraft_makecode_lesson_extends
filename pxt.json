@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "custom.ts",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "customblock/commandParts.ts"
     ],
     "testFiles": [
         "test.ts"
